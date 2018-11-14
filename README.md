@@ -22,7 +22,8 @@ https://consensys.github.io/smart-contract-best-practices/known_attacks/
 
 Creative Commons Attribution 4.0 International
 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="Creative Commons License" width="100"/>
+<a href="https://creativecommons.org/licenses/by/4.0/" rel="Creative Commons License">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="Creative Commons License" width="100"/></a>
 
 <!--
 [![Creative Commons License](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)](https://creativecommons.org/licenses/by/4.0/)
