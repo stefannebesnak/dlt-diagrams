@@ -1,4 +1,5 @@
-# Ethereum Web3 Diagram for Noobs
+# Ethereum 
+## Diagrams
 
 <!--
 <object data="./export/ethereum-web3-diagram.pdf" type="application/pdf" width="700px" height="700px">
@@ -8,7 +9,11 @@
 </object>
 -->
 
-![Ethereum Web3 Diagram](./export/ethereum-web3-diagram.png)
+### Web3
+![Web3](./export/web3.gif)
+
+### Scaling
+![Scaling](./export/scaling.gif)
 
 ## Contributing
 
