@@ -1,5 +1,5 @@
 # Ethereum 
-## Diagrams
+## Diagram
 
 <!--
 <object data="./export/ethereum-web3-diagram.pdf" type="application/pdf" width="700px" height="700px">
@@ -16,6 +16,8 @@
 ![Scaling](./export/scaling.gif)
 
 ## Contributing
+
+Feel free to improve the source file (./source/*.odg) - OpenDocument Graphic file/OpenOffice.org Draw
 
 Pull requests and issues with any corrections or additions are welcome!
 
