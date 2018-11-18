@@ -1,5 +1,4 @@
-# Ethereum 
-## Diagram
+# DLT Diagrams 
 
 <!--
 <object data="./export/ethereum-web3-diagram.pdf" type="application/pdf" width="700px" height="700px">
@@ -9,21 +8,27 @@
 </object>
 -->
 
-### Web3
+### Ethereum Web3 Diagram
 ![Web3](./export/web3.gif)
 
-### Scaling
+### Scaling solutions(ETH)(BTC)
 ![Scaling](./export/scaling.gif)
 
+### Non-interactive zero-knowledge proof(Zcash)(Monero)
+![NIZKP](./export/nizkp.gif)
+<br/><br/>
 ## Contributing
 
-Feel free to improve the source file (./source/*.odg) - OpenDocument Graphic file/OpenOffice.org Draw
+Feel free to improve the source *.odg files! (OpenDocument Graphic)
+(./export/web3.odg)<br/>
+(./export/scaling.odg)<br/>
+(./export/nizkp.odg)<br/>
 
-Pull requests and issues with any corrections or additions are welcome!
+Pull requests and issues with any corrections or additions are welcome!<br/><br/>
 
 ## Acknowledgments
 
-https://consensys.github.io/smart-contract-best-practices/known_attacks/
+https://consensys.github.io/smart-contract-best-practices/known_attacks/<br/><br/>
 
 ## License
 
