@@ -8,21 +8,21 @@
 </object>
 -->
 
-### Ethereum Web3 Diagram
-![Web3](./export/web3.gif)
+##### Ethereum Web3 Diagram
+![Web3](./export/web3.gif)<br/><br/>
 
-### Scaling solutions(ETH)(BTC)
-![Scaling](./export/scaling.gif)
+##### Scaling solutions(ETH)(BTC)
+![Scaling](./export/scaling.gif)<br/><br/>
 
-### Non-interactive zero-knowledge proof(Zcash)(Monero)
-![NIZKP](./export/nizkp.gif)
-<br/><br/>
+##### Non-interactive zero-knowledge proof(Zcash)(Monero)
+![NIZKP](./export/nizkp.gif)<br/><br/>
+
 ## Contributing
 
-Feel free to improve the source *.odg files! (OpenDocument Graphic)
-(./export/web3.odg)<br/>
-(./export/scaling.odg)<br/>
-(./export/nizkp.odg)<br/>
+Feel free to improve the source *.odg files! (OpenDocument Graphic)<br/>
+(./source/web3.odg)<br/>
+(./source/scaling.odg)<br/>
+(./source/nizkp.odg)<br/>
 
 Pull requests and issues with any corrections or additions are welcome!<br/><br/>
 
